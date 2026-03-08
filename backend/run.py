@@ -15,7 +15,7 @@ CORS(app)
 
 # Connect to MongoDB Atlas
 client = MongoClient(MONGO_URI)
-db = client.get_database("taste_the_best")
+db = client['taste_the_best']
 
 # ==========================================
 # CUSTOMER ROUTES (The Storefront)
