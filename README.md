@@ -46,3 +46,11 @@ npm install
 
 # 4. Initialize the server
 npm start
+
+## Acknowledgment
+
+This project was built as part of my continuous learning journey and hands-on practice with Git & GitHub.
+
+❤️ Built with passion, dedication, and guidance from the CipherSchools Git & GitHub Bootcamp.
+
+Special thanks to the CipherSchools team for empowering learners to build, collaborate, and grow in the world of technology.
